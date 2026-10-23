@@ -1,0 +1,5 @@
+data/
+answer_key/
+*.parquet
+mlruns/
+.venv/
